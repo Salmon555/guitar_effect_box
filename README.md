@@ -1,7 +1,7 @@
 # guitar_effect_box
 effect box for guitar
-## I am trying to make a effect box for acoustic guitar
-### The first one I want to try out is called compresser
+## I am trying to make some effect boxs for botn electric and acoustic guitar
+### 1 compresser
 A compresser can make the struming more even, which is often used in funk music. There are many other using scenario that I won't cover here.    
 It will have three options: sustain, level, blend
 
